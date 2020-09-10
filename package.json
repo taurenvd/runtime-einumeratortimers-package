@@ -1,0 +1,20 @@
+{
+  "name": "com.unity.ienumaratortimers",
+  "version": "1.0.0",
+  "displayName": "IEnumerator Timers",
+  "description": "This package handles simple and flexible coroutine timers",
+  "unity": "2017.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "Runtime",
+    "Extension",
+    "IEnumerator",
+    "Timer"
+  ],
+  "author": {
+    "name": "Valerii Dryl",
+    "email": "taurenvd@gmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "module"
+}
