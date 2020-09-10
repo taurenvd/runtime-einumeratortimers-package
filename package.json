@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.ienumaratortimers",
+  "name": "com.unity.ienumerator-timers",
   "version": "1.0.0",
   "displayName": "IEnumerator Timers",
   "description": "This package handles simple and flexible coroutine timers",
